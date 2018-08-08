@@ -45,7 +45,7 @@ Document-based Question Answering task [(DBQA)](http://tcci.ccf.org.cn/conferenc
 
 * ``data``
 
-	hanlp-wiki-vec-zh.txt: Pre-trained word vectors (dimension = 300). (Please add glove.6B.300d.txt in dataset youself.)
+	hanlp-wiki-vec-zh.txt: Pre-trained word vectors (dimension = 300). (Please add hanlp-wiki-vec-zh.txt in dataset youself.)
 
 	stop_words.txt: Chinese stop words.
 
